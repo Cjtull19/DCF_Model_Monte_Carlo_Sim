@@ -23,7 +23,7 @@ This Project Enhances a Discounted Cash Flow Model built in Excel with a Monte C
   
  <li> Ascertain that the above Packages have been Imported prior to restarting the Kernel.</li>
   <br>
-  <li> The Excel Portion of this model needs to be downloaded if changes to working assumptions need to be made (Income Statement CAGR, Fixed Asset / Intangible Asset assumptons etc..) prior to running the Monte Carlo Simulation in Jupyter Notebook /Lab.</li>
+  <li> The Excel Portion of this model needs to be downloaded if changes to working assumptions need to be made (Income Statement CAGR, Fixed Asset / Intangible Asset assumptions etc..) prior to running the Monte Carlo Simulation in Jupyter Notebook /Lab.</li>
   <br>
   <li> Once Assumptions Have been defined Restart the Jupyter Kernal so that the Excel data can be extracted to the Jupyter Note Book.</li>
  <br>
