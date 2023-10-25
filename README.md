@@ -33,6 +33,10 @@ This Project Enhances a Discounted Cash Flow Model built in Excel with a Monte C
     
 > [!IMPORTANT]  
 > It is Highly Recommended that a copy of the Excel model is Taken prior to running the Kernel. This is to avoid any immutable changes to the Original model caused by Xlwings.
+
+## Financial Data Utilized
+- All data was sourced ditecly from the <a href = "https://www.sec.gov/edgar/searchedgar/companysearch" >SEC</a> using the EDGAR tool.
+- The Model is currently built with annual 10k information provided by META but can be repurposed for any other organization.
  
   
 
