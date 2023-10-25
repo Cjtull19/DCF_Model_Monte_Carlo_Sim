@@ -32,7 +32,7 @@ This Project Enhances a Discounted Cash Flow Model built in Excel with a Monte C
 <br>
     
 > [!IMPORTANT]  
-> It is Highly Recommended that a copy of the Excel model is Taken prior to running the Excel Model. This is to avoid any immutable changes to the Model caused by XlWings
+> It is Highly Recommended that a copy of the Excel model is Taken prior to running the Kernel. This is to avoid any immutable changes to the Original model caused by Xlwings.
  
   
 
