@@ -1,6 +1,6 @@
 # META-DCF-Model-and-Monte-Carlo-Simulation
 
-This Project Enhances a Discounted Cash Flow Model built in Excel with a Monte Carlo Simulation executed on a Jupyter Notebook
+This Project Enhances a Discounted Cash Flow Model built in Excel with a Monte Carlo Simulation executed in a Jupyter Notebook
 
 <img> </img>
 ## Languages / Packages Used
