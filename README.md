@@ -11,6 +11,7 @@ This Project Enhances a Discounted Cash Flow Model built in Excel with a Monte C
 4. <a href = "https://pandas.pydata.org/docs/getting_started/index.html" >Pandas</a>
 5. <a href = "https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html" >Matplotlib.pyplot</a>
 6. <a href = "https://numpy.org/numpy-financial/latest/index.html" >Numpy Financials</a>
+7. <a href = "https://scikit-learn.org/stable/" >scikit-learn</a>
 
 > [!NOTE]  
 > For ease of use it is reccomended that the code is opened via Jupyter Lab/Notebook using the Anaconda Navigator.
